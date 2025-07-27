@@ -1,0 +1,38 @@
+<Window x:Class="LSTM.UI.Views.EditDatasetContentWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="编辑数据集内容" Height="600" Width="600" WindowStartupLocation="CenterOwner" ResizeMode="CanResize">
+    <DockPanel Margin="20">
+        <StackPanel Orientation="Horizontal" DockPanel.Dock="Top" Margin="0,0,0,10">
+            <Button Content="新增一行" Command="{Binding AddItemCommand}" Style="{StaticResource MaterialDesignOutlinedButton}"/>
+            <Button Content="保存" Command="{Binding SaveCommand}" Style="{StaticResource MaterialDesignRaisedButton}" Margin="10,0,0,0"/>
+            <Button Content="关闭" Command="{Binding CancelCommand}" CommandParameter="{Binding RelativeSource={RelativeSource AncestorType=Window}}" Style="{StaticResource MaterialDesignOutlinedButton}" Margin="10,0,0,0"/>
+        </StackPanel>
+        <ScrollViewer VerticalScrollBarVisibility="Auto">
+            <ItemsControl ItemsSource="{Binding Items}">
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Border BorderBrush="#DDD" BorderThickness="1" CornerRadius="4" Margin="0,0,0,10" Padding="10">
+                            <StackPanel Orientation="Vertical">
+                                <TextBox Text="{Binding Text, UpdateSourceTrigger=PropertyChanged}" AcceptsReturn="True" Height="60" TextWrapping="Wrap" materialDesign:HintAssist.Hint="文本内容" Style="{StaticResource MaterialDesignOutlinedTextBox}"/>
+                                <StackPanel Orientation="Horizontal" Margin="0,5,0,0">
+                                    <ComboBox SelectedItem="{Binding Sentiment, UpdateSourceTrigger=PropertyChanged}" Width="120" Margin="0,0,10,0">
+                                        <ComboBox.ItemsSource>
+                                            <x:Array Type="{x:Type local:SentimentType}" xmlns:local="clr-namespace:LSTM.Models;assembly=LSTM.Models">
+                                                <local:SentimentType>Positive</local:SentimentType>
+                                                <local:SentimentType>Negative</local:SentimentType>
+                                                <local:SentimentType>Neutral</local:SentimentType>
+                                            </x:Array>
+                                        </ComboBox.ItemsSource>
+                                    </ComboBox>
+                                    <Button Content="删除" Command="{Binding DataContext.DeleteItemCommand, RelativeSource={RelativeSource AncestorType=Window}}" CommandParameter="{Binding}" Style="{StaticResource MaterialDesignOutlinedButton}"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </Border>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </ScrollViewer>
+    </DockPanel>
+</Window> 

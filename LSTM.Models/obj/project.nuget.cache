@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rr206xJxjVKpqa0UflUQuTbYYTqDbgKprRv/iHmnfFOMHizi4MBE0fz+Y+7yWT3UM2bzvgIuUAYyqNXPflCqGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HxiaoL\\Desktop\\LSTM\\LSTM.Models\\LSTM.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HxiaoL\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

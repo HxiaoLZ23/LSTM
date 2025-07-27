@@ -1,0 +1,51 @@
+2025-07-08 09:31:31.289 +08:00 [INF] User admin authenticated successfully
+2025-07-08 09:31:31.327 +08:00 [INF] User admin logged in successfully
+2025-07-08 09:31:53.658 +08:00 [INF] Dataset 我的情感分析 created for user 1
+2025-07-08 09:34:02.492 +08:00 [INF] User admin authenticated successfully
+2025-07-08 09:34:02.528 +08:00 [INF] User admin logged in successfully
+2025-07-08 09:59:49.684 +08:00 [INF] User admin authenticated successfully
+2025-07-08 09:59:49.717 +08:00 [INF] User admin logged in successfully
+2025-07-08 10:10:30.338 +08:00 [INF] User admin authenticated successfully
+2025-07-08 10:10:30.373 +08:00 [INF] User admin logged in successfully
+2025-07-08 10:26:56.551 +08:00 [INF] User admin authenticated successfully
+2025-07-08 10:26:56.587 +08:00 [INF] User admin logged in successfully
+2025-07-08 10:30:00.702 +08:00 [INF] Starting model training for dataset 1
+2025-07-08 10:30:00.749 +08:00 [INF] Starting model training for dataset 1
+2025-07-08 10:30:00.981 +08:00 [ERR] Error training model for dataset 1
+System.ArgumentOutOfRangeException: Schema mismatch for label column 'Label': expected Key<UInt32>, got String (Parameter 'labelCol')
+   at Microsoft.ML.Trainers.TrainerEstimatorBase`2.CheckLabelCompatible(Column labelCol)
+   at Microsoft.ML.Trainers.TrainerEstimatorBase`2.CheckInputSchema(SchemaShape inputSchema)
+   at Microsoft.ML.Trainers.TrainerEstimatorBase`2.GetOutputSchema(SchemaShape inputSchema)
+   at Microsoft.ML.Data.EstimatorChain`1.GetOutputSchema(SchemaShape inputSchema)
+   at Microsoft.ML.Data.EstimatorChain`1.Fit(IDataView input)
+   at LSTM.ML.Services.SentimentAnalysisService.TrainModelAsync(Int32 datasetId, String modelName) in C:\Users\HxiaoL\Desktop\LSTM\LSTM.ML\Services\SentimentAnalysisService.cs:line 107
+2025-07-08 10:39:09.558 +08:00 [INF] User admin authenticated successfully
+2025-07-08 10:39:09.592 +08:00 [INF] User admin logged in successfully
+2025-07-08 10:39:22.381 +08:00 [INF] Starting model training for dataset 1
+2025-07-08 10:39:22.415 +08:00 [INF] Starting model training for dataset 1
+2025-07-08 10:39:41.385 +08:00 [INF] Model training completed. Accuracy: 0.00 %
+2025-07-08 10:39:45.813 +08:00 [INF] Model 1 loaded successfully
+2025-07-08 10:39:53.757 +08:00 [INF] Starting sentiment analysis for user 1
+2025-07-08 10:39:53.789 +08:00 [INF] Analysis result saved for user 1
+2025-07-08 10:39:53.789 +08:00 [INF] Sentiment analysis completed for user 1
+2025-07-08 10:39:53.790 +08:00 [INF] Text analysis completed for user 1
+2025-07-08 10:40:00.851 +08:00 [INF] Starting sentiment analysis for user 1
+2025-07-08 10:40:00.854 +08:00 [INF] Analysis result saved for user 1
+2025-07-08 10:40:00.854 +08:00 [INF] Sentiment analysis completed for user 1
+2025-07-08 10:40:00.855 +08:00 [INF] Text analysis completed for user 1
+2025-07-08 10:43:26.894 +08:00 [INF] User admin authenticated successfully
+2025-07-08 10:43:26.929 +08:00 [INF] User admin logged in successfully
+2025-07-08 10:53:52.072 +08:00 [INF] User admin authenticated successfully
+2025-07-08 10:53:52.108 +08:00 [INF] User admin logged in successfully
+2025-07-08 10:57:46.506 +08:00 [INF] User admin authenticated successfully
+2025-07-08 10:57:46.541 +08:00 [INF] User admin logged in successfully
+2025-07-08 10:57:57.142 +08:00 [INF] Imported 0 training data items for dataset 2
+2025-07-08 10:58:20.307 +08:00 [INF] Imported 60 training data items for dataset 2
+2025-07-08 10:58:55.257 +08:00 [INF] Starting model training for dataset 2
+2025-07-08 10:58:55.289 +08:00 [INF] Starting model training for dataset 2
+2025-07-08 10:58:58.469 +08:00 [INF] Model training completed. Accuracy: 100.00 %
+2025-07-08 10:59:01.684 +08:00 [INF] Model 2 loaded successfully
+2025-07-08 10:59:32.020 +08:00 [INF] Starting sentiment analysis for user 1
+2025-07-08 10:59:32.036 +08:00 [INF] Analysis result saved for user 1
+2025-07-08 10:59:32.036 +08:00 [INF] Sentiment analysis completed for user 1
+2025-07-08 10:59:32.036 +08:00 [INF] Text analysis completed for user 1

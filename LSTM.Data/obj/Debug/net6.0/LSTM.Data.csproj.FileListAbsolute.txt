@@ -1,0 +1,17 @@
+C:\Users\HxiaoL\Desktop\LSTM\LSTM.Data\bin\Debug\net6.0\LSTM.Data.deps.json
+C:\Users\HxiaoL\Desktop\LSTM\LSTM.Data\bin\Debug\net6.0\LSTM.Data.runtimeconfig.json
+C:\Users\HxiaoL\Desktop\LSTM\LSTM.Data\bin\Debug\net6.0\LSTM.Data.dll
+C:\Users\HxiaoL\Desktop\LSTM\LSTM.Data\bin\Debug\net6.0\LSTM.Data.pdb
+C:\Users\HxiaoL\Desktop\LSTM\LSTM.Data\bin\Debug\net6.0\LSTM.Models.dll
+C:\Users\HxiaoL\Desktop\LSTM\LSTM.Data\bin\Debug\net6.0\LSTM.Models.pdb
+C:\Users\HxiaoL\Desktop\LSTM\LSTM.Data\obj\Debug\net6.0\LSTM.Data.csproj.AssemblyReference.cache
+C:\Users\HxiaoL\Desktop\LSTM\LSTM.Data\obj\Debug\net6.0\LSTM.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HxiaoL\Desktop\LSTM\LSTM.Data\obj\Debug\net6.0\LSTM.Data.AssemblyInfoInputs.cache
+C:\Users\HxiaoL\Desktop\LSTM\LSTM.Data\obj\Debug\net6.0\LSTM.Data.AssemblyInfo.cs
+C:\Users\HxiaoL\Desktop\LSTM\LSTM.Data\obj\Debug\net6.0\LSTM.Data.csproj.CoreCompileInputs.cache
+C:\Users\HxiaoL\Desktop\LSTM\LSTM.Data\obj\Debug\net6.0\LSTM.Data.csproj.CopyComplete
+C:\Users\HxiaoL\Desktop\LSTM\LSTM.Data\obj\Debug\net6.0\LSTM.Data.dll
+C:\Users\HxiaoL\Desktop\LSTM\LSTM.Data\obj\Debug\net6.0\refint\LSTM.Data.dll
+C:\Users\HxiaoL\Desktop\LSTM\LSTM.Data\obj\Debug\net6.0\LSTM.Data.pdb
+C:\Users\HxiaoL\Desktop\LSTM\LSTM.Data\obj\Debug\net6.0\LSTM.Data.genruntimeconfig.cache
+C:\Users\HxiaoL\Desktop\LSTM\LSTM.Data\obj\Debug\net6.0\ref\LSTM.Data.dll

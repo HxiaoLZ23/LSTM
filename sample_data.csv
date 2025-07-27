@@ -1,0 +1,783 @@
+text,sentiment
+这个产品真的很棒,Positive
+我非常喜欢这个服务,Positive
+质量很好，值得推荐,Positive
+体验非常满意,Positive
+完美的解决方案,Positive
+优秀的产品,Positive
+很好用，推荐给大家,Positive
+非常棒的体验,Positive
+质量超出预期,Positive
+服务态度很好,Positive
+这个产品太差了,Negative
+非常失望的体验,Negative
+质量很糟糕,Negative
+完全不推荐,Negative
+浪费时间和金钱,Negative
+服务态度恶劣,Negative
+产品有很多问题,Negative
+非常不满意,Negative
+质量不合格,Negative
+完全不值得购买,Negative
+还可以吧,Neutral
+一般般的产品,Neutral
+没什么特别的,Neutral
+普通的体验,Neutral
+中规中矩,Neutral
+还行，不算太差,Neutral
+平常的服务,Neutral
+一般水平,Neutral
+凑合能用,Neutral
+说不上好坏,Neutral
+哇，这个真的超级好用,Joy
+太赞了，超出我的想象,Joy
+真心推荐，不会后悔的,Joy
+这个价格买到这样的质量，太值了,Joy
+客服小姐姐人超好的,Joy
+物流速度快得飞起,Joy
+包装很精美，细节满分,Joy
+用了一段时间，真的很稳定,Joy
+这个功能设计得太贴心了,Joy
+性价比超高，强烈推荐,Joy
+这个app界面设计得真漂亮,Joy
+操作简单，老人小孩都会用,Joy
+售后服务很到位，问题解决得快,Joy
+这个品牌值得信赖,Joy
+质量杠杠的，用了很久都没问题,Joy
+这个颜色搭配得真好看,Joy
+手感很棒，摸起来很舒服,Joy
+这个味道绝了，太好吃了,Joy
+服务很专业，态度也很好,Joy
+这个设计很有创意,Joy
+用起来很顺手，很满意,Joy
+这个效果比我想象的还要好,Joy
+性价比真的很高,Joy
+这个体验感太棒了,Joy
+质量确实不错，值得购买,Joy
+这个功能太实用了,Joy
+用着很放心，质量有保障,Joy
+这个服务真的很贴心,Joy
+太坑了，完全就是骗人的,Anger
+这个质量也太差了吧,Anger
+客服态度恶劣，气死我了,Anger
+浪费我的时间，一点都不好用,Anger
+这个价格买这种东西，太亏了,Anger
+物流慢得要死，等了一个星期,Anger
+包装破损严重，里面都坏了,Anger
+这个功能根本就是摆设,Anger
+用了一天就坏了，质量太差,Anger
+这个app卡得要命，根本用不了,Anger
+界面设计得乱七八糟的,Anger
+操作复杂得要死，一点都不友好,Anger
+售后服务推三阻四，态度很差,Anger
+这个品牌太不靠谱了,Anger
+用了几天就出问题，质量不行,Anger
+这个颜色丑死了，一点都不好看,Anger
+手感很差，摸起来很不舒服,Anger
+这个味道太难吃了，想吐,Anger
+服务态度差，一点都不专业,Anger
+这个设计太丑了，没创意,Anger
+用起来很不顺手，很失望,Anger
+这个效果太差了，完全不行,Anger
+性价比太低了，不值得,Anger
+这个体验感太差了,Anger
+质量确实不行，不推荐购买,Anger
+这个功能太鸡肋了,Anger
+用着很不放心，质量没保障,Anger
+这个服务真的很差劲,Anger
+还行吧，不算特别好,Neutral
+一般般，没什么特别的,Neutral
+凑合着用，马马虎虎,Neutral
+这个价格，这个质量，还可以,Neutral
+物流速度一般，不算快也不算慢,Neutral
+包装还行，没有破损,Neutral
+这个功能还可以，基本够用,Neutral
+用了一段时间，暂时没出问题,Neutral
+这个app还可以，不算卡,Neutral
+界面设计一般，不算难看,Neutral
+操作还可以，不算太复杂,Neutral
+售后服务一般，态度还行,Neutral
+这个品牌听说过，应该还行,Neutral
+质量一般，不算特别好也不算差,Neutral
+这个颜色还可以，不算难看,Neutral
+手感一般，不算特别好,Neutral
+这个味道还可以，不算难吃,Neutral
+服务态度一般，不算特别好,Neutral
+这个设计还可以，不算难看,Neutral
+用起来还可以，不算特别顺手,Neutral
+这个效果一般，不算特别好,Neutral
+性价比一般，不算特别高,Neutral
+这个体验感一般，不算特别好,Neutral
+质量一般，不算特别好,Neutral
+这个功能还可以，基本够用,Neutral
+用着还行，不算特别放心,Neutral
+这个服务还可以，不算特别好,Neutral
+这个产品真的绝了，太好用了,Excitement
+超级满意，超出预期太多,Excitement
+这个必须给满分好评,Excitement
+性价比太高了，太划算了,Excitement
+客服小姐姐人美心善,Excitement
+物流速度快得惊人,Excitement
+包装精美，细节满分,Excitement
+用了一个月，一点问题都没有,Excitement
+这个功能太贴心了，设计得很人性化,Excitement
+强烈推荐，绝对不会后悔,Excitement
+这个app界面太美了，设计感十足,Excitement
+操作简单到爆，连我妈都会用,Excitement
+售后服务太棒了，问题秒解决,Excitement
+这个品牌值得信赖，质量有保障,Excitement
+质量超级好，用了半年都没问题,Excitement
+这个颜色太美了，搭配得很和谐,Excitement
+手感绝了，摸起来超级舒服,Excitement
+这个味道太棒了，好吃到停不下来,Excitement
+服务太专业了，态度超级好,Excitement
+这个设计太有创意了，很独特,Excitement
+用起来超级顺手，很满意,Excitement
+这个效果太惊艳了，比想象中还要好,Excitement
+性价比太高了，物超所值,Excitement
+这个体验感太棒了，很享受,Excitement
+质量确实很好，值得购买,Excitement
+这个功能太实用了，解决了很多问题,Excitement
+用着很放心，质量绝对有保障,Excitement
+这个服务太贴心了，很感动,Excitement
+太坑了，完全就是骗人的,Disappointment
+这个质量差到爆，根本不能用,Disappointment
+客服态度恶劣到极点，气死我了,Disappointment
+浪费我的时间和金钱，一点都不好用,Disappointment
+这个价格买这种东西，太亏了,Disappointment
+物流慢得像蜗牛，等得我都要疯了,Disappointment
+包装烂得要死，里面都坏了,Disappointment
+这个功能就是摆设，一点用都没有,Disappointment
+用了一天就坏了，质量太差了,Disappointment
+这个app卡得要死，根本用不了,Disappointment
+界面设计得乱七八糟，丑死了,Disappointment
+操作复杂得要命，一点都不友好,Disappointment
+售后服务推三阻四，态度差到极点,Disappointment
+这个品牌太不靠谱了，再也不买了,Disappointment
+用了几天就出问题，质量太差了,Disappointment
+这个颜色丑到爆，一点都不好看,Disappointment
+手感差到极点，摸起来很不舒服,Disappointment
+这个味道难吃到想吐，太恶心了,Disappointment
+服务态度差到极点，一点都不专业,Disappointment
+这个设计太丑了，一点创意都没有,Disappointment
+用起来超级不顺手，很失望,Disappointment
+这个效果差到极点，完全不行,Disappointment
+性价比低到爆，一点都不值得,Disappointment
+这个体验感差到极点,Disappointment
+质量确实不行，绝对不推荐购买,Disappointment
+这个功能太鸡肋了，一点用都没有,Disappointment
+用着一点都不放心，质量没保障,Disappointment
+这个服务差到极点，很生气,Disappointment
+还行吧，不算特别好也不算差,Neutral
+一般般，没什么特别的,Neutral
+凑合着用，马马虎虎,Neutral
+这个价格，这个质量，还可以,Neutral
+物流速度一般，不算快也不算慢,Neutral
+包装还行，没有破损,Neutral
+这个功能还可以，基本够用,Neutral
+用了一段时间，暂时没出问题,Neutral
+这个app还可以，不算卡,Neutral
+界面设计一般，不算难看,Neutral
+操作还可以，不算太复杂,Neutral
+售后服务一般，态度还行,Neutral
+这个品牌听说过，应该还行,Neutral
+质量一般，不算特别好也不算差,Neutral
+这个颜色还可以，不算难看,Neutral
+手感一般，不算特别好,Neutral
+这个味道还可以，不算难吃,Neutral
+服务态度一般，不算特别好,Neutral
+这个设计还可以，不算难看,Neutral
+用起来还可以，不算特别顺手,Neutral
+这个效果一般，不算特别好,Neutral
+性价比一般，不算特别高,Neutral
+这个体验感一般，不算特别好,Neutral
+质量一般，不算特别好,Neutral
+这个功能还可以，基本够用,Neutral
+用着还行，不算特别放心,Neutral
+这个服务还可以，不算特别好,Neutral 
+下方为自动生成的样本：
+我今天心情特别低落, Sadness
+最近总觉得很难过, Sadness
+看到那条新闻我都快哭了, Sadness
+分手后一直很伤心, Sadness
+失去了最好的朋友, Sadness
+这件事让我很沮丧, Sadness
+生活好像没有希望了, Sadness
+我真的很想念过去, Sadness
+今天真是糟糕的一天, Sadness
+心里一直堵得慌, Sadness
+每次失败都很难受, Sadness
+感觉被全世界抛弃了, Sadness
+有时候真的撑不下去了, Sadness
+我觉得自己很无助, Sadness
+夜深人静时总会流泪, Sadness
+想起以前的事就难过, Sadness
+没人理解我的痛苦, Sadness
+最近总是提不起精神, Sadness
+一切都变得灰暗了, Sadness
+我真的很想哭, Sadness
+
+突然听到这个消息，吓我一跳, Surprise
+你居然会来，太意外了, Surprise
+没想到他会答应, Surprise
+这结果真让人惊讶, Surprise
+你怎么突然出现了, Surprise
+原来你也在这里, Surprise
+这变化太突然了, Surprise
+完全出乎我的意料, Surprise
+我都没反应过来, Surprise
+你居然会说这样的话, Surprise
+这礼物太惊喜了, Surprise
+没想到会中奖, Surprise
+你居然记得我的生日, Surprise
+突然下起大雨, Surprise
+他竟然考了第一, Surprise
+你居然会做饭, Surprise
+没想到会遇见你, Surprise
+这事发展得太快了, Surprise
+你居然会唱歌, Surprise
+突然收到你的消息, Surprise
+
+最近总是很焦虑, Anxiety
+明天的面试让我很紧张, Anxiety
+担心考试考不好, Anxiety
+总觉得有事要发生, Anxiety
+心里一直不安, Anxiety
+对未来很迷茫, Anxiety
+怕自己做不好, Anxiety
+一直担心家里人, Anxiety
+工作压力太大了, Anxiety
+晚上总是睡不着, Anxiety
+害怕被别人否定, Anxiety
+总觉得时间不够用, Anxiety
+担心自己不被认可, Anxiety
+怕自己会失败, Anxiety
+每次发言都很紧张, Anxiety
+对新环境很不适应, Anxiety
+总是胡思乱想, Anxiety
+怕自己说错话, Anxiety
+担心身体健康, Anxiety
+最近压力山大, Anxiety
+
+今天真是太恶心了, Disgust
+看到那画面我都想吐, Disgust
+这个味道太难闻了, Disgust
+他的话让我很反感, Disgust
+这件事让我很厌恶, Disgust
+看到那个人就不舒服, Disgust
+这食物太恶心了, Disgust
+他的行为让我反胃, Disgust
+这个地方太脏了, Disgust
+看到这些垃圾心情很差, Disgust
+他做的事真让人讨厌, Disgust
+这广告太烦人了, Disgust
+看到虫子就起鸡皮疙瘩, Disgust
+这衣服的味道受不了, Disgust
+他的话让我很不爽, Disgust
+这服务态度真让人反感, Disgust
+看到血就头晕, Disgust
+这人太虚伪了, Disgust
+这饭菜一点都不新鲜, Disgust
+看到这些评论真恶心, Disgust
+
+今天特别满足, Satisfaction
+终于完成了目标, Satisfaction
+吃了一顿好饭很满足, Satisfaction
+工作顺利心情很好, Satisfaction
+看到成绩很满意, Satisfaction
+帮朋友解决了问题, Satisfaction
+家里人都很开心, Satisfaction
+终于买到喜欢的东西, Satisfaction
+今天收获满满, Satisfaction
+生活越来越好, Satisfaction
+终于实现了愿望, Satisfaction
+看到孩子成长很欣慰, Satisfaction
+努力没有白费, Satisfaction
+终于放假了, Satisfaction
+和朋友聚会很开心, Satisfaction
+今天一切都很顺利, Satisfaction
+终于考过了, Satisfaction
+看到成果很有成就感, Satisfaction
+终于等到这一天, Satisfaction
+今天真是圆满的一天, Satisfaction
+
+我有点搞不懂, Confusion
+这题怎么做啊, Confusion
+他说的话我没听明白, Confusion
+最近有点迷茫, Confusion
+不知道该怎么选, Confusion
+这事让我很困惑, Confusion
+我有点懵, Confusion
+怎么突然变成这样, Confusion
+我搞不清楚状况, Confusion
+这操作太复杂了, Confusion
+他说的和做的不一样, Confusion
+我分不清谁是谁, Confusion
+这道题太绕了, Confusion
+我有点晕, Confusion
+不知道该怎么办, Confusion
+这流程太乱了, Confusion
+我有点糊涂, Confusion
+怎么突然换人了, Confusion
+这规则太难懂, Confusion
+我完全没搞明白, Confusion
+
+真的很感谢你, Gratitude
+多亏了你的帮助, Gratitude
+谢谢你一直支持我, Gratitude
+有你真好, Gratitude
+感谢大家的关心, Gratitude
+谢谢你的理解, Gratitude
+真的很感激, Gratitude
+谢谢你陪我, Gratitude
+有你在身边很安心, Gratitude
+谢谢你的鼓励, Gratitude
+感谢你的照顾, Gratitude
+谢谢你帮我解决问题, Gratitude
+有你这样的朋友很幸运, Gratitude
+谢谢你的耐心, Gratitude
+感谢你的付出, Gratitude
+谢谢你为我做的一切, Gratitude
+有你真幸福, Gratitude
+谢谢你的建议, Gratitude
+感谢你的陪伴, Gratitude
+谢谢你一直在, Gratitude
+
+我现在特别有激情, Enthusiasm
+对新工作充满热情, Enthusiasm
+今天干劲十足, Enthusiasm
+对未来很有期待, Enthusiasm
+准备大干一场, Enthusiasm
+对这个项目很感兴趣, Enthusiasm
+每天都很有动力, Enthusiasm
+对生活充满希望, Enthusiasm
+今天特别想学习, Enthusiasm
+对新挑战很兴奋, Enthusiasm
+对运动很有热情, Enthusiasm
+对音乐很感兴趣, Enthusiasm
+对旅行充满向往, Enthusiasm
+对新朋友很期待, Enthusiasm
+今天特别想尝试新事物, Enthusiasm
+对比赛很有信心, Enthusiasm
+对未来充满信心, Enthusiasm
+对生活充满热情, Enthusiasm
+今天特别有干劲, Enthusiasm
+对新环境很期待, Enthusiasm
+
+最近有点沮丧, Frustration
+事情总是不顺利, Frustration
+努力了却没结果, Frustration
+总是遇到麻烦, Frustration
+感觉很无力, Frustration
+做什么都不顺, Frustration
+总是被误解, Frustration
+想放弃但又不甘心, Frustration
+一直在原地踏步, Frustration
+付出得不到回报, Frustration
+总是被批评, Frustration
+做事总是失败, Frustration
+感觉很压抑, Frustration
+一直被否定, Frustration
+总是被忽视, Frustration
+努力没人看到, Frustration
+总是被责怪, Frustration
+做什么都不被认可, Frustration
+一直被拒绝, Frustration
+最近特别烦, Frustration
+
+终于松了一口气, Relief
+事情总算解决了, Relief
+终于不用担心了, Relief
+结果比想象的好, Relief
+终于放下心了, Relief
+问题终于搞定了, Relief
+终于不用加班了, Relief
+终于考完试了, Relief
+终于等到假期, Relief
+终于有人帮忙了, Relief
+终于雨停了, Relief
+终于找到答案了, Relief
+终于熬过来了, Relief
+终于结束了, Relief
+终于有时间休息了, Relief
+终于完成任务了, Relief
+终于不用担心家人了, Relief
+终于搬进新家了, Relief
+终于拿到offer了, Relief
+终于等到你了, Relief
+
+最近特别好奇, Curiosity
+想知道他在干嘛, Curiosity
+对新事物很感兴趣, Curiosity
+想试试新口味, Curiosity
+对未来充满好奇, Curiosity
+想了解更多信息, Curiosity
+对新技术很感兴趣, Curiosity
+想知道结果, Curiosity
+对别人怎么想很好奇, Curiosity
+想看看外面的世界, Curiosity
+对新朋友很感兴趣, Curiosity
+想知道背后的故事, Curiosity
+对新工作很好奇, Curiosity
+想了解他的想法, Curiosity
+对新环境很期待, Curiosity
+想知道为什么, Curiosity
+对新电影很感兴趣, Curiosity
+想试试新运动, Curiosity
+对新产品很好奇, Curiosity
+想知道答案, Curiosity
+
+今天特别自豪, Pride
+为自己感到骄傲, Pride
+孩子取得好成绩很自豪, Pride
+为团队感到自豪, Pride
+终于实现目标很骄傲, Pride
+家人都为我骄傲, Pride
+为朋友感到自豪, Pride
+为公司感到自豪, Pride
+为自己努力感到骄傲, Pride
+为取得的成绩自豪, Pride
+为家乡感到自豪, Pride
+为同事感到骄傲, Pride
+为父母感到自豪, Pride
+为孩子感到骄傲, Pride
+为祖国感到自豪, Pride
+为自己进步感到骄傲, Pride
+为团队合作感到自豪, Pride
+为朋友成功感到骄傲, Pride
+为家人幸福感到自豪, Pride
+为自己坚持感到骄傲, Pride
+
+今天有点羞愧, Shame
+做错事很不好意思, Shame
+说错话很尴尬, Shame
+没完成任务很惭愧, Shame
+考试没考好很羞愧, Shame
+让家人失望了, Shame
+被老师批评很丢脸, Shame
+没帮上忙很抱歉, Shame
+说话太冲了很后悔, Shame
+没守信用很羞愧, Shame
+做事不认真很惭愧, Shame
+没达到预期很丢脸, Shame
+被同事批评很尴尬, Shame
+没完成目标很羞愧, Shame
+说话不当很惭愧, Shame
+没能帮到朋友很抱歉, Shame
+做事拖拉很羞愧, Shame
+没考好很丢脸, Shame
+让朋友失望了, Shame
+做错决定很后悔, Shame
+
+对未来充满希望, Hope
+相信明天会更好, Hope
+一切都会好起来的, Hope
+有信心实现目标, Hope
+相信自己能成功, Hope
+期待新的开始, Hope
+相信努力有回报, Hope
+对生活充满希望, Hope
+相信困难会过去, Hope
+期待美好的明天, Hope
+相信会遇到好事, Hope
+对新工作很有信心, Hope
+相信家人会幸福, Hope
+期待新的挑战, Hope
+相信自己能做到, Hope
+对未来充满信心, Hope
+相信明天会更精彩, Hope
+期待新的机会, Hope
+相信一切都会顺利, Hope
+对生活充满信心, Hope
+
+最近很绝望, Despair
+感觉没有希望了, Despair
+一切都很糟糕, Despair
+怎么努力都没用, Despair
+生活太难了, Despair
+看不到未来, Despair
+每天都很压抑, Despair
+觉得自己很失败, Despair
+没有人理解我, Despair
+什么都做不好, Despair
+每天都很痛苦, Despair
+觉得很无助, Despair
+没有动力了, Despair
+觉得很孤独, Despair
+每天都很难熬, Despair
+觉得很迷茫, Despair
+没有目标了, Despair
+觉得很累, Despair
+什么都不想做, Despair
+觉得很空虚, Despair
+
+我很钦佩他, Admiration
+他真的很厉害, Admiration
+很佩服你的勇气, Admiration
+他做得太棒了, Admiration
+很欣赏她的才华, Admiration
+他很有担当, Admiration
+很佩服你的坚持, Admiration
+他很有能力, Admiration
+很欣赏你的努力, Admiration
+他很有智慧, Admiration
+很佩服你的善良, Admiration
+他很有魅力, Admiration
+很欣赏你的幽默, Admiration
+他很有责任心, Admiration
+很佩服你的毅力, Admiration
+他很有爱心, Admiration
+很欣赏你的乐观, Admiration
+他很有远见, Admiration
+很佩服你的自律, Admiration
+他很有耐心, Admiration
+
+我很看不起他, Contempt
+他太虚伪了, Contempt
+很鄙视这种行为, Contempt
+他一点都不诚实, Contempt
+很讨厌这种人, Contempt
+他太自私了, Contempt
+很不屑他的做法, Contempt
+他太懒惰了, Contempt
+很反感这种态度, Contempt
+他太狡猾了, Contempt
+很不喜欢这种性格, Contempt
+他太傲慢了, Contempt
+很不屑一顾, Contempt
+他太冷漠了, Contempt
+很反感这种做事方式, Contempt
+他太粗鲁了, Contempt
+很不喜欢这种说话方式, Contempt
+他太无理了, Contempt
+很不屑这种想法, Contempt
+他太自大了, Contempt
+很反感这种表现, Contempt
+
+今天特别开心, Amusement
+看到搞笑视频笑疯了, Amusement
+朋友讲了个笑话, Amusement
+今天玩的很开心, Amusement
+看综艺节目笑不停, Amusement
+和朋友一起玩很快乐, Amusement
+看到有趣的段子, Amusement
+今天心情特别好, Amusement
+看电影笑出声, Amusement
+和同事开玩笑, Amusement
+看到猫咪的表情包, Amusement
+今天过得很有趣, Amusement
+看动画片很开心, Amusement
+和家人一起玩游戏, Amusement
+看到小朋友的表演, Amusement
+今天特别放松, Amusement
+看漫画笑了半天, Amusement
+和朋友一起聚会, Amusement
+看到有趣的新闻, Amusement
+今天特别轻松, Amusement
+
+今天特别无聊, Boredom
+什么都不想做, Boredom
+一天都在发呆, Boredom
+没有新鲜事, Boredom
+今天过得很无趣, Boredom
+一直刷手机, Boredom
+没有人陪我玩, Boredom
+今天特别懒, Boredom
+一直在等人, Boredom
+没有动力做事, Boredom
+今天特别空虚, Boredom
+一直重复同样的事, Boredom
+没有新电影看, Boredom
+今天特别没劲, Boredom
+一直在家待着, Boredom
+没有好玩的事, Boredom
+今天特别安静, Boredom
+一直在发呆, Boredom
+没有人聊天, Boredom
+今天特别冷清, Boredom
+
+最近很怀旧, Nostalgia
+想起小时候的事, Nostalgia
+看到老照片很感慨, Nostalgia
+听到老歌很感动, Nostalgia
+想念以前的朋友, Nostalgia
+看到老同学很亲切, Nostalgia
+想起过去的时光, Nostalgia
+看到老房子很熟悉, Nostalgia
+想起童年的味道, Nostalgia
+看到老物件很温暖, Nostalgia
+想念家乡的味道, Nostalgia
+看到老电影很感动, Nostalgia
+想起以前的老师, Nostalgia
+看到老街道很怀念, Nostalgia
+想起小时候的玩具, Nostalgia
+看到老同事很亲切, Nostalgia
+想起过去的朋友, Nostalgia
+看到老照片很温馨, Nostalgia
+想起以前的生活, Nostalgia
+看到老同学很开心, Nostalgia
+
+最近特别乐观, Optimism
+相信一切都会好, Optimism
+对未来充满信心, Optimism
+相信自己能行, Optimism
+对生活很有希望, Optimism
+相信明天会更好, Optimism
+对新工作很有信心, Optimism
+相信努力有回报, Optimism
+对未来很有期待, Optimism
+相信困难会过去, Optimism
+对新挑战很有信心, Optimism
+相信自己能成功, Optimism
+对生活充满热情, Optimism
+相信会遇到好事, Optimism
+对未来充满希望, Optimism
+相信明天会更精彩, Optimism
+对新机会很有信心, Optimism
+相信一切都会顺利, Optimism
+对生活充满信心, Optimism
+相信未来会更美好, Optimism
+
+最近有点悲观, Pessimism
+觉得什么都不顺, Pessimism
+对未来没信心, Pessimism
+觉得努力没用, Pessimism
+对生活很失望, Pessimism
+觉得明天不会更好, Pessimism
+对新工作没信心, Pessimism
+觉得困难过不去, Pessimism
+对未来很担心, Pessimism
+觉得自己做不到, Pessimism
+对生活没热情, Pessimism
+觉得不会遇到好事, Pessimism
+对未来很悲观, Pessimism
+觉得明天会更糟, Pessimism
+对新机会没信心, Pessimism
+觉得一切都很难, Pessimism
+对生活没信心, Pessimism
+觉得未来不会更好, Pessimism
+对生活很迷茫, Pessimism
+觉得未来很渺茫, Pessimism 
+
+我一个人在家时总觉得害怕,Fear
+黑夜让我感到恐惧,Fear
+听到那个声音我心里发慌,Fear
+我害怕失败,Fear
+面对陌生环境我很紧张,Fear
+我很怕打雷,Fear
+考试前我总是很担心,Fear
+我害怕高空,Fear
+我怕黑,Fear
+我担心会出错,Fear
+突然停电让我很害怕,Fear
+我害怕和陌生人说话,Fear
+我怕被老师点名,Fear
+我害怕一个人走夜路,Fear
+我怕鬼故事,Fear
+我害怕失去家人,Fear
+我对未来感到不安,Fear
+我害怕被拒绝,Fear
+我怕看恐怖片,Fear
+我害怕生病,Fear
+我怕被批评,Fear
+我害怕失败后的后果,Fear
+我怕被遗忘,Fear
+我害怕考试不及格,Fear
+我怕自己做不好,Fear
+我害怕被孤立,Fear
+我怕突然发生意外,Fear
+我害怕面对现实,Fear
+我怕被别人误会,Fear
+我害怕高声响,Fear
+我怕黑暗中的影子,Fear
+我害怕独自一人,Fear
+我怕被父母责备,Fear
+我害怕失去朋友,Fear
+我怕被人嘲笑,Fear
+我害怕失败的感觉,Fear
+我怕自己不被理解,Fear
+我害怕突如其来的变化,Fear
+我怕被遗弃,Fear
+我害怕面对挑战,Fear
+
+我真的很爱你,Love
+妈妈对我无微不至的关爱让我很感动,Love
+我爱我的家人,Love
+我喜欢和你在一起的每一刻,Love
+我爱我的小狗,Love
+我对生活充满热爱,Love
+我爱吃妈妈做的饭,Love
+我喜欢春天的花,Love
+我爱我的朋友们,Love
+我喜欢看你笑的样子,Love
+我爱大自然,Love
+我喜欢和家人一起旅行,Love
+我爱我的老师,Love
+我喜欢安静的夜晚,Love
+我爱运动,Love
+我喜欢下雨天的味道,Love
+我爱看书,Love
+我喜欢和你聊天,Love
+我爱我的祖国,Love
+我喜欢帮助别人,Love
+我爱音乐,Love
+我喜欢画画,Love
+我爱我的同桌,Love
+我喜欢早晨的阳光,Love
+我爱我的生活,Love
+我喜欢和同学一起学习,Love
+我爱我的梦想,Love
+我喜欢写日记,Love
+我爱我的家乡,Love
+我喜欢看星星,Love
+我爱我的小猫,Love
+我喜欢做手工,Love
+我爱我的班级,Love
+我喜欢和爸爸一起散步,Love
+我爱我的童年,Love
+我喜欢和妈妈一起做饭,Love
+我爱我的老师教的知识,Love
+我喜欢和朋友一起玩耍,Love
+我爱我的家,Love
+我喜欢温暖的被窝,Love
+
+我讨厌被欺骗,Hate
+我恨下雨天,Hate
+我讨厌早起,Hate
+我恨考试失败的感觉,Hate
+我讨厌被误会,Hate
+我恨说谎的人,Hate
+我讨厌吵闹的环境,Hate
+我恨被人忽视,Hate
+我讨厌吃苦瓜,Hate
+我恨失去朋友,Hate
+我讨厌被批评,Hate
+我恨孤独的感觉,Hate
+我讨厌做作业,Hate
+我恨被人嘲笑,Hate
+我讨厌拥挤的地铁,Hate
+我恨被父母责备,Hate
+我讨厌失败,Hate
+我恨被人背叛,Hate
+我讨厌无聊的课,Hate
+我恨被人利用,Hate
+我讨厌冷漠,Hate
+我恨虚伪的人,Hate
+我讨厌被催促,Hate
+我恨被人看不起,Hate
+我讨厌被强迫做不喜欢的事,Hate
+我恨失望的感觉,Hate
+我讨厌被遗忘,Hate
+我恨被人敷衍,Hate
+我讨厌不守信用的人,Hate
+我恨被人否定,Hate
+我讨厌被打扰,Hate
+我恨被人指责,Hate
+我讨厌拖延症,Hate
+我恨被人冷落,Hate
+我讨厌虚假的友谊,Hate
+我恨被人欺负,Hate
+我讨厌被人说教,Hate
+我恨被人利用感情,Hate
+我讨厌被人控制,Hate
+我恨被人误解,Hate

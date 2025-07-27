@@ -1,0 +1,12 @@
+C:\Users\HxiaoL\Desktop\LSTM\LSTM.Models\bin\Release\net6.0\LSTM.Models.deps.json
+C:\Users\HxiaoL\Desktop\LSTM\LSTM.Models\bin\Release\net6.0\LSTM.Models.dll
+C:\Users\HxiaoL\Desktop\LSTM\LSTM.Models\bin\Release\net6.0\LSTM.Models.pdb
+C:\Users\HxiaoL\Desktop\LSTM\LSTM.Models\obj\Release\net6.0\LSTM.Models.csproj.AssemblyReference.cache
+C:\Users\HxiaoL\Desktop\LSTM\LSTM.Models\obj\Release\net6.0\LSTM.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HxiaoL\Desktop\LSTM\LSTM.Models\obj\Release\net6.0\LSTM.Models.AssemblyInfoInputs.cache
+C:\Users\HxiaoL\Desktop\LSTM\LSTM.Models\obj\Release\net6.0\LSTM.Models.AssemblyInfo.cs
+C:\Users\HxiaoL\Desktop\LSTM\LSTM.Models\obj\Release\net6.0\LSTM.Models.csproj.CoreCompileInputs.cache
+C:\Users\HxiaoL\Desktop\LSTM\LSTM.Models\obj\Release\net6.0\LSTM.Models.dll
+C:\Users\HxiaoL\Desktop\LSTM\LSTM.Models\obj\Release\net6.0\refint\LSTM.Models.dll
+C:\Users\HxiaoL\Desktop\LSTM\LSTM.Models\obj\Release\net6.0\LSTM.Models.pdb
+C:\Users\HxiaoL\Desktop\LSTM\LSTM.Models\obj\Release\net6.0\ref\LSTM.Models.dll
